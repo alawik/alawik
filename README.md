@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="tulips.jpg" />
+  <img width="300px" src="ridethelightning.jpeg" />
 </p>
 
 <p align="center">
